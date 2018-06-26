@@ -1,2 +1,2 @@
 # dai-project
-official repository for 2017-2019 dai july project
+official repository intended for dai 2017 july project
